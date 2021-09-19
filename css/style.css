@@ -243,10 +243,15 @@ footer p {
     width: 50%;
     border: 1px solid white;
   }
+/*-------------------
 
+homeモバイル
+
+-------------------*/
   .home-content {
     top: 50%;
     left: 35%;
+    text-align: center;
   }
 /*-------------------
 
