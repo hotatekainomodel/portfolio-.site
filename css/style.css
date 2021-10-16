@@ -158,7 +158,9 @@ service
 work
 
 -------------------*/
-
+#works img {
+  border: solid 1px white;
+}
 
 
 
