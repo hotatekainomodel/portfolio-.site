@@ -154,7 +154,6 @@ work
 -------------------*/
 #works img {
   border: solid 1px white;
-  margin-bottom: 25px;
 }
 
 #works p {
@@ -166,6 +165,10 @@ work
 contact
 
 -------------------*/
+#contact h2 {
+  margin-top: 25px;
+}
+
 .form {
   width: 300px;
   margin: 0 auto;
